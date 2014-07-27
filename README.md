@@ -1,6 +1,7 @@
 # Welcome to the Flow Coding Guide
 
-The coding guidelines for Ruby on Rails of flow.codes
+The coding guidelines for Ruby on Rails of [flow.codes](http://flow.codes)
+
 
 [Let's Go](https://github.com/tilod/flow_coding_guide/wiki)
 
@@ -10,7 +11,6 @@ The coding guidelines for Ruby on Rails of flow.codes
 Rails Application Architecture:
 
   - [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/) by Bryan Helmkamp
-  - [active_user_policy.rb GIST](https://gist.github.com/brynary/4670393) by Bryan Helmkamp
   - [SOLID Object Oriented Design](http://confreaks.com/videos/240-goruco2009-solid-object-oriented-design) by Sandi Metz
   - [All the little things](http://confreaks.com/videos/3358-railsconf-all-the-little-things) by Sandi Metz
   - [Gourmet Service Objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html) by Philippe Creux
