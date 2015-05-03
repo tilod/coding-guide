@@ -10,6 +10,7 @@ The coding guidelines for Ruby on Rails of [flow.codes](http://flow.codes)
 
 Rails Application Architecture:
 
+  - [Trailblazer – A new architecture for Rails](https://leanpub.com/trailblazer) by Nick Sutterer
   - [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/) by Bryan Helmkamp
   - [active_user_policy.rb Gist](https://gist.github.com/brynary/4670393) by Bryan Helmkamp
   - [SOLID Object Oriented Design](http://confreaks.com/videos/240-goruco2009-solid-object-oriented-design) by Sandi Metz
