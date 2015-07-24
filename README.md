@@ -3,7 +3,7 @@
 The coding guidelines for Ruby on Rails of [flow.codes](http://flow.codes)
 
 
-<h1 style="text-align:center">
+<h1 align="center">
   <a href=https://github.com/tilod/flow_coding_guide/wiki>Let's Go!</a>
 </h1>
 
