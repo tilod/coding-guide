@@ -10,10 +10,11 @@ Coding guidelines for Ruby on Rails, written by [Tilo Dietrich](https://github.c
 
 ## Resources & Inspiration
 
-Rails Application Architecture:
+Ruby and Rails Application Architecture:
 
 -   [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/) by Bryan Helmkamp
 -   [active_user_policy.rb Gist](https://gist.github.com/brynary/4670393) by Bryan Helmkamp
+-   [Why Ruby Class Methods Resist Refactoring](http://blog.codeclimate.com/blog/2012/11/14/why-ruby-class-methods-resist-refactoring/) by Bryan Helmkamp
 -   [Trailblazer – A new architecture for Rails](https://leanpub.com/trailblazer) by Nick Sutterer
 -   [SOLID Object Oriented Design](http://confreaks.com/videos/240-goruco2009-solid-object-oriented-design) by Sandi Metz
 -   [All the little things](http://confreaks.com/videos/3358-railsconf-all-the-little-things) by Sandi Metz
