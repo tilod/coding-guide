@@ -24,6 +24,7 @@ Ruby and Rails Application Architecture:
 -   [Modeling on the Right Side of the Brain](http://confreaks.com/videos/3321-railsconf-modeling-on-the-right-side-of-the-brain) by Nicholas Henry
 -   [Discovering the joy of over design](http://insights.workshop14.io/2015/07/14/domain-driven-design-introduction.html) by Peter Saxton
 -   [The World Needs Another Post About Dependency Injection in Ruby](http://solnic.eu/2013/12/17/the-world-needs-another-post-about-dependency-injection-in-ruby.html) by Piotr Solnica
+-   [Improve Your Ruby with the Adapter Design Pattern](http://www.sitepoint.com/using-and-testing-the-adapter-design-pattern/) by Robert Qualls
 
 JavaScript Architecture:
 
