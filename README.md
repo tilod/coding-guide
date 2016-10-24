@@ -32,4 +32,10 @@ JavaScript Architecture:
 
 Testing:
 
-  - [The Magic Tricks of Testing](http://confreaks.com/videos/2452-railsconf2013-the-magic-tricks-of-testing) by Sandi Metz
+-   [The Magic Tricks of Testing](http://confreaks.com/videos/2452-railsconf2013-the-magic-tricks-of-testing) by Sandi Metz
+-   Blog posts by Wojtek Mach:
+    -   [Liskov Principle & MiniTest](http://wojtekmach.pl/blog/2012/07/17/liskov-principle-and-minitest/)
+    -   [Sharing Examples in Minitest](http://wojtekmach.pl/blog/2013/07/17/sharing-examples-in-minitest/)
+    -   [Integration Testing on Different Levels](http://wojtekmach.pl/blog/2014/07/17/integration-testing-on-different-levels/)
+    -   [Testing Shape of Data](http://wojtekmach.pl/blog/2015/07/17/testing-shape-of-data/)
+    -   [4+ Years of Using Minitest](http://wojtekmach.pl/blog/2016/07/17/4-plus-years-of-using-minitest/)
