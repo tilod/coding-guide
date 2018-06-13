@@ -4,7 +4,7 @@ Coding guidelines for Ruby on Rails, written by [Tilo Dietrich](https://github.c
 
 
 <h1 align="center">
-  <a href=https://github.com/tilod/flow_coding_guide/wiki>Let's Go!</a>
+  <a href=/tilod/flow_coding_guide/wiki>Let's Go!</a>
 </h1>
 
 
